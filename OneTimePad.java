@@ -1,5 +1,5 @@
 
-package rec8_files;
+package rec7_files;
 
 import java.util.Scanner;
 import java.io.FileInputStream;

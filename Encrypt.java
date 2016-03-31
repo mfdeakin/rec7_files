@@ -1,5 +1,5 @@
 
-package rec8_files;
+package rec7_files;
 
 import java.io.InputStream;
 import java.io.IOException;
