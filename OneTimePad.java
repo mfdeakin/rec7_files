@@ -25,5 +25,6 @@ public class OneTimePad {
     }
     input.close();
     encrypted.close();
+    out.close();
   }
 }
